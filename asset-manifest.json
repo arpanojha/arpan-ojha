@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arpan-ojha/static/css/main.073c9b0a.css",
+    "main.js": "/arpan-ojha/static/js/main.91e4e4fe.js",
+    "static/js/787.295ac091.chunk.js": "/arpan-ojha/static/js/787.295ac091.chunk.js",
+    "index.html": "/arpan-ojha/index.html",
+    "main.073c9b0a.css.map": "/arpan-ojha/static/css/main.073c9b0a.css.map",
+    "main.91e4e4fe.js.map": "/arpan-ojha/static/js/main.91e4e4fe.js.map",
+    "787.295ac091.chunk.js.map": "/arpan-ojha/static/js/787.295ac091.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.91e4e4fe.js"
+  ]
+}
