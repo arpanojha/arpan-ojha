@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/arpan-ojha/static/css/main.073c9b0a.css",
-    "main.js": "/arpan-ojha/static/js/main.91e4e4fe.js",
+    "main.css": "/arpan-ojha/static/css/main.2b2bb8fd.css",
+    "main.js": "/arpan-ojha/static/js/main.7e634144.js",
     "static/js/787.295ac091.chunk.js": "/arpan-ojha/static/js/787.295ac091.chunk.js",
+    "static/media/flash_cards.png": "/arpan-ojha/static/media/flash_cards.b6a2a20e5d1c55b591a2.png",
+    "static/media/movie_seat.png": "/arpan-ojha/static/media/movie_seat.ef43125a352809e0b865.png",
+    "static/media/mbo.png": "/arpan-ojha/static/media/mbo.f9e4c1254cf3b1c683f0.png",
     "index.html": "/arpan-ojha/index.html",
-    "main.073c9b0a.css.map": "/arpan-ojha/static/css/main.073c9b0a.css.map",
-    "main.91e4e4fe.js.map": "/arpan-ojha/static/js/main.91e4e4fe.js.map",
+    "main.2b2bb8fd.css.map": "/arpan-ojha/static/css/main.2b2bb8fd.css.map",
+    "main.7e634144.js.map": "/arpan-ojha/static/js/main.7e634144.js.map",
     "787.295ac091.chunk.js.map": "/arpan-ojha/static/js/787.295ac091.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.91e4e4fe.js"
+    "static/css/main.2b2bb8fd.css",
+    "static/js/main.7e634144.js"
   ]
 }
